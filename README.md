@@ -1,5 +1,5 @@
 # Recipe-app
-Programme written using the Edamam API for my Code First Girls coding kickstarter project
+Programme written using the Edamam API for my Code First Girls Python and Apps coding kickstarter project
 
 The programme searches the API for an ingredient and returns results in a text file. 
 Results are sorted from least to most of the specified ingredient.
